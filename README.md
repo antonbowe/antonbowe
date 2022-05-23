@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonbowe&label=Profile%20views&color=0e75b6&style=flat" alt="antonbowe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonbowe" alt="antonbowe" /></a> </p>
-
 - 🔭 I’m currently working on [lots of business stuff](https://am-nb.de)
 
 - 🌱 I’m currently learning **iOS App Development with Swift UI**
