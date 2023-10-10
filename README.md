@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h3 align="center">Business Information Technologies Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonbowe&label=Profile%20views&color=0e75b6&style=flat" alt="antonbowe" /> </p>
 
-- 🔭 I’m currently working on [lots of business stuff](https://am-nb.de)
+- 🔭 I’m currently working on [ABITIX.](https://abitix.de)
 
-- 🌱 I’m currently learning **iOS App Development with Swift UI**
+- 🤝 I’m currently employed with [DZ BANK AG Frankfurt](https://dzbank.de)
 
-- 🤝 I’m currently employed with [Alex Media OÜ and AM & NB Services UG](https://alexmedia.ltd)
-
-- 📫 How to reach me **mail@antonbowe.de (business: anton.bowe@am-nb.de)**
+- 📫 How to reach me **mail@antonbowe.de**
 
 - ⚡ Fun fact **I think my GitHub profile is cooler than @jan-herzog**
 
