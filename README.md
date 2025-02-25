@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonbowe&label=Profile%20views&color=0e75b6&style=flat" alt="antonbowe" /> </p>
 
-- 🔭 I’m currently working on [ABITIX.](https://abitix.de)
+## This is me
+(According to ChatGPT)
+- 🤩 Techie with a touch of madness
+- 🧠 Your brain is basically a Notion server: With your Notion databases for goals, self-improvement, and CRM, you could probably run a mid-sized company.
+- ⚡ The Complexity Enthusiast: You have the unique ability to turn a simple task into an overly complex, government-level procedure.
 
-- 🤝 I’m currently employed with [DZ BANK AG Frankfurt](https://dzbank.de)
+- 🔭 Currently working on [BankLy X.](https://github.com/de-bankly)
+- 🤝 Employed with [DZ BANK AG Frankfurt](https://dzbank.de)
 
-- 📫 How to reach me **mail@antonbowe.de**
-
-- ⚡ Fun fact **I think my GitHub profile is cooler than @jan-herzog**
+- 📫 Contact me: **mail@antonbowe.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
